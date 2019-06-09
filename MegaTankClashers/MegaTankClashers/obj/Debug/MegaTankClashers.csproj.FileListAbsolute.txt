@@ -1,0 +1,13 @@
+C:\Users\keand\source\repos\MegaTankClashers\MegaTankClashers\bin\Debug\MegaTankClashers.exe.config
+C:\Users\keand\source\repos\MegaTankClashers\MegaTankClashers\bin\Debug\MegaTankClashers.exe
+C:\Users\keand\source\repos\MegaTankClashers\MegaTankClashers\bin\Debug\MegaTankClashers.pdb
+C:\Users\keand\source\repos\MegaTankClashers\MegaTankClashers\obj\Debug\MegaTankClashers.csprojAssemblyReference.cache
+C:\Users\keand\source\repos\MegaTankClashers\MegaTankClashers\obj\Debug\MegaTankClashers.Form1.resources
+C:\Users\keand\source\repos\MegaTankClashers\MegaTankClashers\obj\Debug\MegaTankClashers.Properties.Resources.resources
+C:\Users\keand\source\repos\MegaTankClashers\MegaTankClashers\obj\Debug\MegaTankClashers.Resource1.resources
+C:\Users\keand\source\repos\MegaTankClashers\MegaTankClashers\obj\Debug\MegaTankClashers.csproj.GenerateResource.cache
+C:\Users\keand\source\repos\MegaTankClashers\MegaTankClashers\obj\Debug\MegaTankClashers.csproj.CoreCompileInputs.cache
+C:\Users\keand\source\repos\MegaTankClashers\MegaTankClashers\obj\Debug\MegaTankClashers.exe
+C:\Users\keand\source\repos\MegaTankClashers\MegaTankClashers\obj\Debug\MegaTankClashers.pdb
+C:\Users\keand\source\repos\MegaTankClashers\MegaTankClashers\bin\Debug\MegaTankClashers.exe.CodeAnalysisLog.xml
+C:\Users\keand\source\repos\MegaTankClashers\MegaTankClashers\bin\Debug\MegaTankClashers.exe.lastcodeanalysissucceeded
